@@ -1,0 +1,3 @@
+# Perfectionist's plates
+
+Have you ever noticed that copper and iron plates are not aligned? No? Me neither. But after seeing [this](https://www.reddit.com/r/Factoriohno/s/2rH6vwGqgG) comment on reddit, and entering a blind blood rage as a consequance of realizing that, I wanted to fix this. At least, give an option to fix this for all the perfectionists out there. So here you go. a simple mod that replaces the texture of copper plates with a properly alligned one. Sorry for requiring a restart to change the settings - I do not yet know how to do something like this during the runtime, if that is even possible. If you have any ideas or requests, feel free to contact me on discord, telegram or reddit. If you want to contribute, feel free to open a pull request on github.

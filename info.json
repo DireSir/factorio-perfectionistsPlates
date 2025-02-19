@@ -1,0 +1,10 @@
+{
+	"name":"Perfectionists-plates",
+	"author":"YourDireSir",
+	"version":"0.1.0",
+	"title":"Perfectionist's plates",
+	"contact": "diarserouy@gmail.com, Discord: @yourdiresir, Telegram: @YourDireSir",
+	"description":"Aligns iron and copper plates for all the Perfectionists out there",
+	"dependencies": ["base"],
+	"factorio_version": "2.0"
+}
